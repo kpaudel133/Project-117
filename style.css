@@ -1,0 +1,28 @@
+body{
+    background-color: lavender;
+}
+
+#score{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Cambria;
+    color: mediumblue;
+    float: left;
+    margin-left: 15px;
+}
+
+#timer{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Cambria;
+    color:mediumblue;
+    float: right;
+    margin-right: 150px;
+}
+
+#drawing{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Cambria;
+    color:blueviolet;
+}
